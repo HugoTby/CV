@@ -37,7 +37,7 @@ h1{
 #Menu{
     background-color: rgb(77, 75, 78);
     width: 47%;
-    height: 1050px;
+    height: 1150px;
     
 }
 #MenuDroite{
@@ -123,7 +123,7 @@ h1{
     background: #f1f1bd;
     overflow:visible;
     position:relative;
-    margin-top:340px;
+    margin-top:470px;
 
   }
 
@@ -205,5 +205,15 @@ h1{
     margin-top: 12px;
     font-size: 13px;
 }
+
+.divTi{
+	background-color: #f1f1bd;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+
+
 
 
